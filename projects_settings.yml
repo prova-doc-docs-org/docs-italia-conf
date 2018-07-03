@@ -21,4 +21,4 @@ projects:
       - comune
     documents:
       - title: Prova projects docs
-repository: prova-project-docs
+        repository: prova-project-docs
